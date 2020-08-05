@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is **Thijs**! Welcome on my github profile!
 
@@ -9,4 +9,8 @@ My name is **Thijs**! Welcome on my github profile!
 - 📫 How to reach me: [thijsvdh12@gmail.com](mailto:thijsvdh12@gmail.com)
 - ⚡ Fun fact: You are awesome!
 
-[![Thijs's github stats](https://github-readme-stats.vercel.app/api?username=dusthijsvdh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### stats
+
+[![Thijs's github stats](https://github-readme-stats.vercel.app/api?username=dusthijsvdh&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dusthijsvdh&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
