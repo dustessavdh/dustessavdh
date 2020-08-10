@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Thijs**! Welcome on my github profile!
+My name is **Thijs**! Welcome on my github profile! :milky_way:
 
 - 🔭 I’m currently working on a [Colour game](https://github.com/dusthijsvdh/kleurenspel) and a few private projects!
 - 🌱 I’m currently learning **Node.js** & **Ruby**
