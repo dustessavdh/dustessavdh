@@ -35,7 +35,7 @@ This is a list of some things I know:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
 </p>
 
-## stats
+## Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
