@@ -19,6 +19,7 @@ This is a list of some things I know:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/>
   
   <!-- Frontend -->
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -29,6 +30,7 @@ This is a list of some things I know:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/phoenix.svg" alt="phoenix" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/handlebars/handlebars-original-wordmark.svg" alt="handlebars" width="40" height="40"/>
   
   <!-- Database -->
@@ -36,11 +38,17 @@ This is a list of some things I know:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Microsoft_Office_Access_%282018-present%29.svg" alt="access" width="40" height="40"/>
   
   <!-- Programs -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="wsl" width="40" height="40"/>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="lightroom" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premiere pro" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="after effects" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Adobe_Audition_CC_icon_%282020%29.svg" alt="audition" width="40" height="40"/>
 </p>
 
 ## Stats
