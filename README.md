@@ -12,7 +12,7 @@ My name is **Thijs**! Welcome on my github profile! :milky_way:
 
 ## Things I know
 
-This is a array of some things I know:
+This is an array of some things I know:
 <p align="left">
   <!-- Languages -->
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
