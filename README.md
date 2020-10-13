@@ -55,8 +55,9 @@ This is an array of some things I know:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dusthijsvdh&show_icons=true&theme=dracula&count_private=true" alt="Thijs's github stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusthijsvdh&theme=dracula&layout=compact" alt="Thijs's Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dusthijsvdh&show_icons=true&theme=dracula&count_private=true" alt="Tessa's github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusthijsvdh&theme=dracula&layout=compact" alt="Tessa's top languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ThijsvdH&theme=dracula" alt="Tessa's Wakatime week stats"/>
   </a>
 </p>
 
