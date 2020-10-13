@@ -3,7 +3,7 @@
 
 My name is **Thijs**! Welcome on my github profile! :milky_way:
 
-- 🔭 I’m currently working on a [Colour game](https://github.com/dusthijsvdh/kleurenspel) and a few private projects!
+- 🔭 I’m currently working on a [Colour game](https://github.com/dusthijsvdh/kleurenspel), a few private projects and school :books:!
 - 🌱 I’m currently learning **Node.js** & **Ruby**
 - 👯 I’m looking to collaborate on **Fun stuff!**
 - 💬 Ask me about **Anything!**
