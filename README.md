@@ -63,7 +63,7 @@ This is an array of some things I know:
   </a>
 </p>
 
-### :coffee:/:tea: break
+## :coffee:/:tea: break
 
 Somtimes you need a quick break to restore your epic coding skills.
 So [click here](https://www.reddit.com/random) and get suprised by a random reddit post everytime you click.
