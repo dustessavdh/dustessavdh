@@ -3,8 +3,8 @@
 
 My name is **Thijs**! Welcome on my github profile! :milky_way:
 
-- 🔭 I’m currently working on a [Colour game](https://github.com/dusthijsvdh/kleurenspel), a few private projects and school :books:!
-- 🌱 I’m currently learning **Node.js** & **Ruby**
+- 🔭 I’m currently working on school projects :books:!
+- 🌱 I’m currently learning **Angular** & **Elixir**
 - 👯 I’m looking to collaborate on **Fun stuff!**
 - 💬 Ask me about **Anything!**
 - 📫 How to reach me: [thijsvdh12@gmail.com](mailto:thijsvdh12@gmail.com)
