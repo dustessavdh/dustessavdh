@@ -63,6 +63,18 @@ This is an array of some things I know:
   </a>
 </p>
 
+### :coffee:/:tea: break
+
+Somtimes you need a quick break to restore your epic coding skills.
+So [click here](https://www.reddit.com/random) and get suprised by a random reddit post everytime you click.
+
+###### if you refresh the page you get a new joke
+<p align="center">
+  <a href="https://github.com/ABSphreak/readme-jokes">
+    <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  </a>
+</p>
+
 <p align="center">
     <a href="https://twitter.com/HThijsvd"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="HThijsvd" height="30" width="30"/></a>
     <a href="https://linkedin.com/in/thijs-van-der-heijden-871a81196"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thijs van der heijden" height="30" width="30"/></a>
