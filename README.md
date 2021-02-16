@@ -3,7 +3,7 @@
 
 My name is **Thijs**! Welcome on my github profile! :milky_way:
 
-- 🔭 I’m currently working on school projects :books:!
+- 🔭 I’m currently working on school projects, checkout [hergetto](https://github.com/dusthijsvdh/hergetto) :books:!
 - 🌱 I’m currently learning **Elixir** & **Phoenix**
 - 👯 I’m looking to collaborate on **Fun stuff!**
 - 💬 Ask me about **Anything!**
