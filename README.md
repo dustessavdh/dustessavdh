@@ -39,7 +39,7 @@ This is an array of some things I know:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Microsoft_Office_Access_%282018-present%29.svg" alt="access" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" alt="access" width="40" height="40"/>
   
   <!-- Programs -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="wsl" width="40" height="40"/>
