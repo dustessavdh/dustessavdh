@@ -54,6 +54,7 @@ This is an array of some things I know:
 
 ## Stats
 
+[![wakatime](https://wakatime.com/badge/user/fd7e7a86-3976-41ec-a7d4-7e0c9bbd2f8e.svg)](https://wakatime.com/@fd7e7a86-3976-41ec-a7d4-7e0c9bbd2f8e)
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=dusthijsvdh&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="T.'s github stats"/>
