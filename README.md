@@ -56,11 +56,11 @@ This is an array of some things I know:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dusthijsvdh&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Tessa's github stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusthijsvdh&theme=dracula&layout=compact&hide_border=true&exclude_repo=BGEMBJATWDHATBTGIA&langs_count=7" alt="Tessa's top languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dusthijsvdh&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="T.'s github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusthijsvdh&theme=dracula&layout=compact&hide_border=true&exclude_repo=BGEMBJATWDHATBTGIA&langs_count=7" alt="T.'s top languages"/>
   </a>
   <a href="https://wakatime.com/@ThijsvdH">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ThijsvdH&theme=dracula&layout=compact&hide_border=true&custom_title=Wakatime week stats" alt="Tessa's Wakatime week stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ThijsvdH&theme=dracula&layout=compact&hide_border=true&custom_title=Wakatime+Week+Stats" alt="T.'s Wakatime week stats"/>
   </a>
 </p>
 
