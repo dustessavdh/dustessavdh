@@ -1,6 +1,14 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">A passionate full stack developer and student from the Netherlands</h3>
 
+<a href="https://api.daily.dev/get?r=TvdHeijden" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/devcard/devcard.svg"
+    />
+  </a>
+
 My name is **Thijs**! Welcome on my github profile! :milky_way:
 
 - 🔭 I’m currently working on school projects, checkout [hergetto](https://github.com/dusthijsvdh/hergetto) :books:!
