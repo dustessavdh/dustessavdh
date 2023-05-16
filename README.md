@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">A passionate full stack developer and student from the Netherlands</h3>
 
-<a href="https://api.daily.dev/get?r=TvdHeijden" target="_blank">
+<a href="https://app.daily.dev/TvdHeijden" target="_blank">
     <img
       width="256"
       align="right"
@@ -62,14 +62,24 @@ This is an array of some things I know:
 
 ## Stats
 
-[![wakatime](https://wakatime.com/badge/user/fd7e7a86-3976-41ec-a7d4-7e0c9bbd2f8e.svg)](https://wakatime.com/@fd7e7a86-3976-41ec-a7d4-7e0c9bbd2f8e)
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dusthijsvdh&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="T.'s github stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusthijsvdh&theme=dracula&layout=compact&hide_border=true&exclude_repo=BGEMBJATWDHATBTGIA&langs_count=7" alt="T.'s top languages"/>
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/github-metrics.svg" alt="T.'s github stats"/>
+  </a>
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.achievements.svg" alt="T.'s achievements"/>
+  </a>
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.languages.svg" alt="T.'s languages"/>
   </a>
   <a href="https://wakatime.com/@ThijsvdH">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ThijsvdH&theme=dracula&layout=compact&hide_border=true&custom_title=Wakatime+Week+Stats" alt="T.'s Wakatime week stats"/>
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.wakatime.svg" alt="T.'s github wakatime stats"/>
+  </a>
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.habits.charts.svg" alt="T.'s habits"/>
+  </a>
+  <a href="https://steamcommunity.com/id/JustAap/">
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.steam.svg" alt="T.'s steam account"/>
   </a>
 </p>
 
