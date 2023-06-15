@@ -133,7 +133,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        6 hours played
+                                        7 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -141,7 +141,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 13 Jun 2023
+                                        Last played on 15 Jun 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -150,22 +150,22 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            5 / 43 achievements unlocked
+                                            7 / 43 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMFBgH/xAArEAABBAEEAQMEAQUAAAAAAAABAgMEEQUABhIhQQcTMRQiUWEyI0JxgaH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUBAv/EACYRAAIBAgQFBQAAAAAAAAAAAAECAwARBCFB8BIiMWFxE1GBwdH/2gAMAwEAAhEDEQA/ABHcUvJwtxZCO7LkIeZkLbJ5mwQdbvacWRlsTjg3IQ9NfDrrrz7hDh4uKSEhXzQSm6H5OspuGFN3R6g5ZnDx3Jbr8srtCTSboFaj8JTZNk9DSHtjbCcJk2sa5MdDrLfvNkhPF1RPF5PEj+PVC/kFJ81qbKFWIe9XcBiPTmMjd7a2J6flHXqFjnYOdbS+6kqW1ypBtAN9hIoAfIJoVdnzqkVlpciWy5kJT8pLagf6qyroeB3pk3Zt7FiWzkc+0qbESn2lU4Y4bISB/ZQA6HgUa8Xo23/t+NtzKR04x5x7HzWffY93taBdFJI/l4IPVgixokTo6hTmaXnDcZkUWF95bGlKXouuGr0+eVFr60ZBxM5AH3LSUAtdn5AAXQ/N/m9Syczt7JTpLUmejk3xLS3Elt1Cu1ckqofHSf8AI86y2wM3Hwuz9zwVKDEwS23InM8SpKkKbKv2E8Umv3qvxuUdyMfEbfnvRomLirHKS04EuEBCge6slRIJuxaR1peVVLlvFFRZljBUXzN9/NTrz7u7mXYM6clgtp5so4jk+bom6FkCjxFEi67FaqNzY+ZGjbTi5NC0T1B9v2lntDIdHAf9X/qtJ2zcXt/baxKw77ZnEgCY8vm4kX8JJSAn90L/AHrkOBkN1bmhMysZJVAbnBTb30/Is/f2paj2UlNhRuu78DXKzC5VBy/dqyLCOytK7DlGp69vNf/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGBP/EACgQAAICAgEDAwQDAQAAAAAAAAECAwQFESEAEjEGE0EHFCJRMjNxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAfEQACAgICAwEAAAAAAAAAAAABAgARAyES8CIxQXH/2gAMAwEAAhEDEQA/ABXPy5irnMojT3AalgxyyKW1GS2gCfA2d6/zrsweSt7nvZHK2pIoEPtQif8AOeX4XQIbsA2WOx8AHZ6SvU2FfKelZasVitUu5O2mRuSyHavI52q75PACgAfPdre+Yn09+n2WozDL5hDSiik7oK80P5WWXuG+4jSRkEjfJYHgeD1CjIF2BqdJuTHyJ3MfavreHuWcUI3rgyrZgRkddcgc7U88/kP3/nXE1sXZ8jlcuZw0rGWtGhIWWVnG+Tv8VBY8edAAjpflrXs6trGZSi+MosAHl9tY2lfkKqdrMCqhQSd+OPnoju4lkmsxTPILkRMaoQCpYEjt2SO0frz56VGOa9DU0MQVbS+99fYkQeoYpMVSuOjT2OwPWgdNQQLrQcsf5sutc/K/A562GKykjenYbuSZtLWDyswJJQD+QH6IG9dH/wBPW9NDGWa2d9qK7UsuYfu2btlhOu3tG+1irBtgjw2+eda/KZ3E3FarBlqh+4X2pZRJ/Wh2GI/bkEgDxs7+NGDKBdCJjDVuWbLx1cc9hudKpTu/EksQFBOjrlgPHHRF6mxdhclPKtqjdksTkzfaMSIWaTTKRzoDfknx0h+qstSX0zeEFhJRJCYIo1ffLcDXzx5/51D+leOyEmWjqrhr8tG9JHE9hYyIok2dswPBXR8j46TByVGdfyKTx2TU/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Actions Speak Louder</div>
-                                                <div class="unlocked">5 Jun 2023</div>
+                                                <div>Ha-dough-ken</div>
+                                                <div class="unlocked">15 Jun 2023</div>
                                             </div>
-                                            <div class="description">Something in the way while you're walking through the city? Here's an easy solution: send it flyin' with a Master Action! Mm-mm-mmm... It's the little pleasures in life.</div>
+                                            <div class="description">I've worked a few odd jobs during my travels, and they all helped me with my training. You should take up a part-time job during your World Tour, as well.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+4 others...</div>
+                                            <div class="description ellipsis">+6 others...</div>
                                         </div>
                                     </div>
                                 </div>
