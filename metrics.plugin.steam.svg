@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 25 May 2023
+                                        Last played on 15 Jun 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -133,7 +133,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        8 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -150,22 +150,22 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            7 / 43 achievements unlocked
+                                            8 / 43 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGBP/EACgQAAICAgEDAwQDAQAAAAAAAAECAwQFESEAEjEGE0EHFCJRMjNxgf/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAfEQACAgICAwEAAAAAAAAAAAABAgARAyES8CIxQXH/2gAMAwEAAhEDEQA/ABXPy5irnMojT3AalgxyyKW1GS2gCfA2d6/zrsweSt7nvZHK2pIoEPtQif8AOeX4XQIbsA2WOx8AHZ6SvU2FfKelZasVitUu5O2mRuSyHavI52q75PACgAfPdre+Yn09+n2WozDL5hDSiik7oK80P5WWXuG+4jSRkEjfJYHgeD1CjIF2BqdJuTHyJ3MfavreHuWcUI3rgyrZgRkddcgc7U88/kP3/nXE1sXZ8jlcuZw0rGWtGhIWWVnG+Tv8VBY8edAAjpflrXs6trGZSi+MosAHl9tY2lfkKqdrMCqhQSd+OPnoju4lkmsxTPILkRMaoQCpYEjt2SO0frz56VGOa9DU0MQVbS+99fYkQeoYpMVSuOjT2OwPWgdNQQLrQcsf5sutc/K/A562GKykjenYbuSZtLWDyswJJQD+QH6IG9dH/wBPW9NDGWa2d9qK7UsuYfu2btlhOu3tG+1irBtgjw2+eda/KZ3E3FarBlqh+4X2pZRJ/Wh2GI/bkEgDxs7+NGDKBdCJjDVuWbLx1cc9hudKpTu/EksQFBOjrlgPHHRF6mxdhclPKtqjdksTkzfaMSIWaTTKRzoDfknx0h+qstSX0zeEFhJRJCYIo1ffLcDXzx5/51D+leOyEmWjqrhr8tG9JHE9hYyIok2dswPBXR8j46TByVGdfyKTx2TU/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAqEAABBAEDAgYCAwEAAAAAAAABAgMEEQUABiESEwciMUFRYRQyFRZyof/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBQD/xAAeEQEBAAICAgMAAAAAAAAAAAABAgADESEEMRMygf/aAAwDAQACEQMRAD8AiefkZWLuLIx1SZQejvrCylRJSAeT9Aac/C1ZnPz5+WmvTFRe22yy8rqSFK6j3FfNdNAGxyTXA0W/r0yXN3fnWQp6RkmH4zEZKaUVuhII6ia6rBBSLq6vqBToP4O4rKOKyMtqNHcxLBBfMk1bqLISE0SSATdgAWPX01OsHWk9JxlBWka9ONG7cdiM1t2clxEZqRHbW7HkoaSC0UWSPKOUqNgjkc36jUXOWlyZTLmQlPyktqBp1ZVQHsOddISY6cyylxxhTDTYWw6hbQSp1JTRBT8Wf+n60k772VsbHYtf4OU/isy20T+EZBkFbleVK0m1Jv5sVfI0rx7AZvvCuWHkzBuWDnG0ZCLIdjRsZHecf7aF0HFgk2Ob5PNWAPYXpj3DvVhnbG3E7eiMQXJpRMfhMpCW0JQpSO2a9QpQPJ5pN+ujEPMbcmYppWRl4pEl5gIkpNJNqTSgeOPutRvJxGokhtuFPRNY87TQR+yEocWlIP8ApPSsfStM8N+W+NycH5gb9Va/r25U9t7yORyzisgzCxeNgJLsmQ8tSyF3SEjge4NCiTWpzvGZjstvKfIw/dTEnSOtAcFFS1fsa9aJs86yKElvCKYUw6hDstDhUoUCEtqAH3yo6L+H2z8rld4Yd4YyYuAZLZW92T20Nk+ZRJ9q9/jW3Rrm2Y9YBdqN5//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ha-dough-ken</div>
+                                                <div>Taking Initiative</div>
                                                 <div class="unlocked">15 Jun 2023</div>
                                             </div>
-                                            <div class="description">I've worked a few odd jobs during my travels, and they all helped me with my training. You should take up a part-time job during your World Tour, as well.</div>
+                                            <div class="description">You want to learn street fighting fundamentals? Well, too bad, 'cause I'm not in the mood to take on any students. Go hit the Tutorials, kid.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+6 others...</div>
+                                            <div class="description ellipsis">+7 others...</div>
                                         </div>
                                     </div>
                                 </div>
