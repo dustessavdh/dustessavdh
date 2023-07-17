@@ -117,15 +117,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAAAAQUBAQEAAAAAAAAAAAAABgEDBAUHAggA/8QAMRAAAgIBAwIEBgECBwAAAAAAAQIDBAAFBhESIQciMVETFBZBYXGRFTQjJjIzQqGx/8QAGwEAAgMBAQEAAAAAAAAAAAAAAwQCBQYBAAf/xAAhEQABBAIDAQEBAQAAAAAAAAABAAIDBAUREhMhMSIyQf/aAAwDAQACEQMRAD8AzTw+2VPvjULdOreirPVQSs8inhxz6DPR1TdkFOnHUeB3NaJYCQf9RUccjGN1GvBVr/06tDRcOesxIFLD25GB267S6BWr2Z0Nj5k9I6P+P5OYa1kZcs7shHitq9bo+o8+soCqdVaTsefXE+s6544pzHv75ne1NSTcdqxHCpXoQeuEi6HIo4Myr+8rRSmAJI9TTSCUQnetZD1NTmb9MMerbrgk5VKkqcebzHB6Hbs03UFlUcd+4zjc9hNtV68syfE+J5fKPbOmpZ48g31Rc4AovXckSkF4HCjn7++eb/FDYdjajDVLN6GwmpTu0aRqeY+e/fNG0LWl3RLPWphoJK462Zz2I9sJ9smN7ky6gkV2NV6Qkq9fSfcc43j7VnEydsw8QZq3ePEu7fNFAoYeZiOcoNp7amo2bNi7L8zG/dFm84X9A5fbtPEEXKEFTzkuHvBFzyAUH/mK4CXqj0U5YBPxfQ1YoQxrVooz6kxqBzkiGE2H6SwQjv3wW2ptq3p2pXJbOoNIjsXVSxPAJ9M0HTOBJJwEPCjvxllZyLIJAyMb2htiIG1yoHQCjr5ex4HrlXqXw7axRyQI/DHguARl3fJIXp6EH4GAO+Nv2tYrRrUvNXbq9VJGdhysNiTok/KiYSRtRt3bbfUq0XyDLVdW8xgHQSPzxk/Z8RrzPC7BmRACT98sqURgrQRFi5SMKx59SB65X7aYG9aPSSSSP+8Rz8jZItN/xFr7B0U824a8v+5VZv33xRuGsB/bP/OR4ttTSHgWY/4yQNoWPvZixJuIkkHxTc4hv1Iu4oHc9NV1Xjjkn1x+ruuvXLddeQFe/wC8Edp/5l1G7TiJR6bEH88HjNcrU4IooozBAxCgMWUYN9RsMuz/AEFF8x4ITs7ugsICteTqbtjEm4YVC81ndfvwcN3q1usqa8HTx2IUZlO/o/paFbcp6hPIVVRnjTdPMHEeqLJdDav/AKirgdqz/wA5ym4ayHlKbKfxwMbq7YnsVa84sIBLGsgHHpyMWfbM0S/3Mf8AGSONe4eglE7d+hC9PxfoRyEjTpl5HHdhg3JqFyxNNPHYsosrFlBkPYHMlklLw8dyQftl6NeQLEpjmPSoHZs+nRUGxEtAWbdb5N+rbPCWaOtql9mhIYxjlvfvjXj/AKlONG0z5SaeIiZi3wWKkjj78YL+FG44zfvoI3J+GO5P5zZpYa96KE2K8cyqA3Syg5g8vddQyfNzfyrepEJYt7WUeAGqWW1XU/mbVidTEAqyuW4PP5y+8eLKWNL04dJUiU9z6YdwVq1dmlgqwQ9Q6f8ADQKcyfxn1xDQpRCPgiZhycFUyDsjkB1N0ESWPqhLkd7B3jBuGuK0NSSJqsKqSx7HjtzhTqQIEahlHV6E++eadjb6rbZtWp5qk0yyoF4RuMf8QfEQbnqV4NPiuUJIW62YyfY/rNgcdKXggaSLbwZFsr//2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAABQYHAwACBAH/xAAqEAABAwMDBAEDBQAAAAAAAAABAAIDBAURBiExEhNBURQVIlIWMkNhcf/EABsBAAIDAAMAAAAAAAAAAAAAAAIFAAMGAQQH/8QAKBEAAgEDAwMEAgMAAAAAAAAAAQIDAAQRBRIxIUFhE1FxgQYUJKHR/9oADAMBAAIRAxEAPwAFarP3ecpgjsLekcrbTroyPuHlNsfa6BhoTovHCmXOBWPigutQn9OAFj3pQFhb4yufQmn2nOljY8nIXr+IwnYIoZEmQOtUalbz6dcG2l5GKQfoTQd8r59CaBjfdO9bDDTR5fhDqarp6mrbAzHUo8saNtY9aCKG6mQyoCQOT8UsGxtHIKBXeziJji0FVt1tBac4SrqKgLYnYwjdVxVUFw+8Gh1hhO5zjCplm0y+spGy91oyk3T0AezxuccKxWaIQ2yJg9ZSzUFVkUnmtP8Ajt7PbSyJF0B56UAg0n239TpQY/69oBN3oKuSMggA439Jzsrrq6sqhcw0U/8AFgYys7rZmTvM0O0npLoNXhsZVt5zgN37fdHr1nLf/wAherjnyPFSm7TPq7t05cA0DIzssw2CnrGFp6ZHFa1UTo75UiUgOA4XaSFkkrZHt3buqbmXdMWzWg06AR2iIB2pkt9xjkj7U37sbFBNTHMTiBxwh9yqexCWNdh53BQL59XUu7LzlntMrO9LLsk+qzup6Ekbme3OByR7fFO2mKcOaD6KpkFV0U8bQOAp5pbjA9p4hOYxnwpdtkKtDo0eC8nucUYgl70Y95XmrZ207HdbwHeltQs6Yh+R4SZqruGOSUyluCRyk09ktw6u3C9SPfxTW4JwEBwWOB90r3eBzLtPK9zXB4yMLOii79VHEQSHFZEuduXF5K91k3ucBBGQ7hEuHlGBgZ4poytb2hGckLz9V0u2k6kS/IgcJR+ACGCzmmppZpozHJ+LlU3YAx5SrqbJhkJx/vhaEW6IdyivPzqtxcL6chz5obpOpBeGdQOT4VApXRkdJeBjfdQKw3vsgOY/pIPlOds1PCxpNTNnqGOUsuC23fz4FMrS8/XzEV65qvfLpo4y7vNDWjLiUm3+ogulKTSPDsuIGPaVX6mp+ksbL9pPk8oVNqTsujbTgFnUS7HhBFlgRgj5qx9QLOmQOhzz7Uaits5idJwI+UQtVtkgr6aSTycpUbqeY0E8PDnZwV3/AFXN3qVwORHjK4S3CkMK7c2rtMjRkgA5H9f7VZfs0pT1LvA5B3azyDl43S7fNVdyJ2HpiZ3IrLwwpuGOa//Z" alt="" />
                             <div class="about">
-                                <div class="name">DAVE THE DIVER</div>
+                                <div class="name">Ultimate Chicken Horse</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Adventure, Casual, Indie, RPG, Simulation
+                                        Action, Casual, Indie
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -133,7 +133,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        5 hours played
+                                        8 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -141,7 +141,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 14 Jul 2023
+                                        Last played on 16 Jul 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -150,17 +150,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            14 / 43 achievements unlocked
+                                            14 / 31 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAwQFBv/EACsQAAIBAwMDAwIHAAAAAAAAAAECAwQFEQASISJRYQYTMRShUmJxcsHR4f/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAgUG/8QAIxEAAQMDBAMBAQAAAAAAAAAAAQIDBAARIQUTMVESQWFxsf/aAAwDAQACEQMRAD8Al3K41drpII7XTUnsRRINjRA44HA7DRrb6xulVCCsNCFXpO6nBbPb40OsAaQAjIMaAg/tGm/TNPSLfa1WiR1VEKKRkDgc/rq515mUx4OR14WbW6Nr4x8rQTYkhajsrsPXw9fn8NAr/Vl6jpxJFT0LrjrC0wDY8aWt17a8pPT1UFK9PJA+QIgM8fB41p73R0eI9sSbwcbgDlx3OsR6cjjS53MRqAqtIq47YP8AWl9ORPS40X1YXfHvAJzgUKNFltrRvLwTx86OKJV1knvxLuhQFVBeQkAdI0/aDTmWoqYq33JSuNipwhAwOc/BI48ahVSTVfty0bUkkDxDDO456cZH8aNSSXOlaQxJbQHGCu7gck9/P2GnNWamvPjZBKRYjjBta4p2UJO6SyDarVPdoKoqk9XGksgGCnUQfwnng/7paKhS2NUzQ1DStOXOGi27cq3nUaKC4RsrIlvDAg53dtvn8v3PfT8lfWGN3uX0MVOiMxaNuQcEc8/HOhQmtRL7e+D4pJ5t7BBqLIlF1JdBsD1X/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYAAwUB/8QAJhAAAgIBAwMDBQAAAAAAAAAAAQIDEQAEEiEFMUEGE2EiIzJSgf/EABYBAQEBAAAAAAAAAAAAAAAAAAYHBf/EACYRAAEDAwMEAgMAAAAAAAAAAAECAwQABRESQYEGEyFRMcFhkdH/2gAMAwEAAhEDEQA/AGHqk88KodPXFliQKAywakpCrzFVNC/As5ZPpYZ2VpUBZex85JEUDgg/GbdzEtpRdaXhPrP0anvTKrPKbTElM6nDvp9ncg/QqvTzv7wjkHLbiBfYCsy+toj60lJI9yxrvUnkHmrw7lOoQv3DKUr575l63Rw6LUTs00ssmoUMVofTTE3ZOZEuQp+3p1nJCvng4phabc3A6hWWU6QW/AG/kZPHimTB41lEUnv7L3Hbt/Xx/cIzjC1I8nFsuOHmyN8EfupDabgqFIQoHCdSSeD/ADNDbVLozD8TYxZ9Tdaihkdm0sjNE4hH3Ntggm6o40WBKibHtgbauBix6qg0UM0aanStqZJQZWdpmXmyBwPjBshh5iHpXjSTnnFWe2zoc68dxoHuBBHrI1DyNscg/jev/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Shop's Lookin' Good!</div>
-                                                <div class="unlocked">14 Jul 2023</div>
+                                                <div>Neat and Nimble</div>
+                                                <div class="unlocked">16 Jul 2023</div>
                                             </div>
-                                            <div class="description">Bought First Interior Item.</div>
+                                            <div class="description">Wall jump 1000 times</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
