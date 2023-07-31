@@ -11,8 +11,8 @@
 
 My name is **Thijs**! Welcome on my github profile! :milky_way:
 
-- 🔭 I’m currently working on school projects, checkout [hergetto](https://github.com/dusthijsvdh/hergetto) :books:!
-- 🌱 I’m currently learning **Elixir**, **Phoenix**
+- 🔭 I’m currently working on projects for [hergetto](https://github.com/hergetto) :books:!
+- 🌱 I’m currently learning **C#** and **.NET**
 - 💬 Ask me about **Anything!** I love to help!
 - 📫 How to reach me: [thijsvdh12@gmail.com](mailto:thijsvdh12@gmail.com)
 - ⚡ Fun fact: You are awesome!
