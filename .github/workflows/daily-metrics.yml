@@ -30,6 +30,7 @@ jobs:
           base_indepth: yes
           plugin_lines: yes
           plugin_lines_delay: 30
+          plugin_traffic: yes
 
   language:
     runs-on: ubuntu-latest
@@ -77,7 +78,6 @@ jobs:
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_traffic: yes
 
   achievments:
     runs-on: ubuntu-latest
