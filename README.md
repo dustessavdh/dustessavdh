@@ -67,9 +67,6 @@ This is an array of some things I know:
     <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/github-metrics.svg" alt="T.'s github stats"/>
   </a>
   <a href="https://github.com/lowlighter/metrics">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.achievements.svg" alt="T.'s achievements"/>
-  </a>
-  <a href="https://github.com/lowlighter/metrics">
     <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.languages.svg" alt="T.'s languages"/>
   </a>
   <a href="https://wakatime.com/@ThijsvdH">
@@ -78,8 +75,17 @@ This is an array of some things I know:
   <a href="https://github.com/lowlighter/metrics">
     <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.habits.charts.svg" alt="T.'s habits"/>
   </a>
-  <a href="https://steamcommunity.com/id/JustAap/">
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.contributions.svg" alt="T.'s contributions"/>
+  </a>
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.achievements.svg" alt="T.'s achievements"/>
+  </a>
+  <a href="https://steamcommunity.com/id/Toesichan/">
     <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.steam.svg" alt="T.'s steam account"/>
+  </a>
+  <a href="https://www.last.fm/user/JustAap">
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.music.svg" alt="T.'s recently listened to music"/>
   </a>
 </p>
 
@@ -88,12 +94,15 @@ This is an array of some things I know:
 Somtimes you need a quick break to restore your epic coding skills.
 So [click here](https://www.reddit.com/random) and get suprised by a random reddit post everytime you click.
 
-###### if you refresh the page you get a new joke
 <p align="center">
+  <a href="https://xkcd.com/">
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.xkcd.svg" alt="XKCD image of the day" />
+  </a>
   <a href="https://github.com/ABSphreak/readme-jokes">
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   </a>
 </p>
+> if you refresh the page you get a new joke
 
 <p align="center">
     <a href="https://twitter.com/HThijsvd"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="HThijsvd" height="30" width="30"/></a>

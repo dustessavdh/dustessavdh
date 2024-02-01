@@ -28,6 +28,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           plugin_lines: yes
+          plugin_lines_delay: 30
 
   language:
     runs-on: ubuntu-latest
@@ -48,17 +49,18 @@ jobs:
           filename: metrics.plugin.languages.svg
           base: ""
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           repositories_skipped: dusthijsvdh/BGEMBJATWDHATBTGIA
 
-  topics:
+  contributions:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
-        name: Topics
+        name: Contributions
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Amsterdam
@@ -68,11 +70,11 @@ jobs:
           committer_message: "chore: update `${filename}`"
           user: dusthijsvdh
 
-          filename: metrics.plugin.topics.svg
+          filename: metrics.plugin.contributions.svg
           base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 10
-          plugin_topics_mode: icons
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
   
   habits:
     runs-on: ubuntu-latest
@@ -94,8 +96,11 @@ jobs:
           base: ""
           plugin_habits: yes
           plugin_habits_from: 500
+          plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          plugin_traffic: yes
 
   achievments:
     runs-on: ubuntu-latest
@@ -185,3 +190,51 @@ jobs:
           plugin_steam_user: "76561198109279674"
           plugin_steam_games_limit: 1
           plugin_steam_achievements_limit: 1
+
+  xkcd:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        name: XKCD image of the day
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Europe/Amsterdam
+          output_action: commit
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          committer_message: "chore: update `${filename}`"
+          user: dusthijsvdh
+          
+          filename: metrics.plugin.xkcd.svg
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: XKCD of the day
+          plugin_screenshot_url: https://xkcd.com
+          plugin_screenshot_selector: "#comic img"
+
+  music:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        name: Recently listened
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Europe/Amsterdam
+          output_action: commit
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          committer_message: "chore: update `${filename}`"
+          user: dusthijsvdh
+          
+          filename: metrics.plugin.music.svg
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: lastfm
+          plugin_music_token: ${{ secrets.LASTFM_TOKEN }}
+          plugin_music_user: JustAap
+          plugin_music_mode: recent
+          plugin_music_played_at: yes
