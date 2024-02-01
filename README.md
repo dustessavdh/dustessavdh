@@ -76,9 +76,6 @@ This is an array of some things I know:
     <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.habits.charts.svg" alt="T.'s habits"/>
   </a>
   <a href="https://github.com/lowlighter/metrics">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.contributions.svg" alt="T.'s contributions"/>
-  </a>
-  <a href="https://github.com/lowlighter/metrics">
     <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.achievements.svg" alt="T.'s achievements"/>
   </a>
   <a href="https://steamcommunity.com/id/Toesichan/">
@@ -98,6 +95,8 @@ So [click here](https://www.reddit.com/random) and get suprised by a random redd
   <a href="https://xkcd.com/">
     <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.xkcd.svg" alt="XKCD image of the day" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/ABSphreak/readme-jokes">
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   </a>
