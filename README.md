@@ -101,6 +101,7 @@ So [click here](https://www.reddit.com/random) and get suprised by a random redd
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   </a>
 </p>
+
 > if you refresh the page you get a new joke
 
 <p align="center">
