@@ -9,12 +9,12 @@
     />
   </a>
 
-My name is **Thijs**! Welcome on my github profile! :milky_way:
+My name is **Tessa**! Welcome on my github profile! :milky_way:
 
 - 🔭 I’m currently working on projects for [hergetto](https://github.com/hergetto) :books:!
 - 🌱 I’m currently learning **C#** and **.NET**
 - 💬 Ask me about **Anything!** I love to help!
-- 📫 How to reach me: [thijsvdh12@gmail.com](mailto:thijsvdh12@gmail.com)
+- 📫 How to reach me: [tessavanderheijden02@gmail.com](mailto:tessavanderheijden02@gmail.com)
 - ⚡ Fun fact: You are awesome!
 
 ## Things I know
@@ -64,25 +64,25 @@ This is an array of some things I know:
 
 <p align="center">
   <a href="https://github.com/lowlighter/metrics">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/github-metrics.svg" alt="T.'s github stats"/>
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/github-metrics.svg" alt="Tessa's github stats"/>
   </a>
   <a href="https://github.com/lowlighter/metrics">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.languages.svg" alt="T.'s languages"/>
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.languages.svg" alt="Tessa's languages"/>
   </a>
   <a href="https://wakatime.com/@ThijsvdH">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.wakatime.svg" alt="T.'s github wakatime stats"/>
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.wakatime.svg" alt="Tessa's github wakatime stats"/>
   </a>
   <a href="https://github.com/lowlighter/metrics">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.habits.charts.svg" alt="T.'s habits"/>
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.habits.charts.svg" alt="Tessa's habits"/>
   </a>
   <a href="https://github.com/lowlighter/metrics">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.achievements.svg" alt="T.'s achievements"/>
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.achievements.svg" alt="Tessa's achievements"/>
   </a>
   <a href="https://steamcommunity.com/id/Toesichan/">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.steam.svg" alt="T.'s steam account"/>
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.steam.svg" alt="Tessa's steam account"/>
   </a>
   <a href="https://www.last.fm/user/JustAap">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.music.svg" alt="T.'s recently listened to music"/>
+    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.music.svg" alt="Tessa's recently listened to music"/>
   </a>
 </p>
 
@@ -105,8 +105,7 @@ So [click here](https://www.reddit.com/random) and get suprised by a random redd
 > if you refresh the page you get a new joke
 
 <p align="center">
-    <a href="https://twitter.com/HThijsvd"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="HThijsvd" height="30" width="30"/></a>
+    <a href="https://twitter.com/HTessavd"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="HTessavd" height="30" width="30"/></a>
     <a href="https://linkedin.com/in/thijs-van-der-heijden-871a81196"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thijs van der heijden" height="30" width="30"/></a>
-    <a href="https://fb.com/thijs.vanderheijden.90"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thijs.vanderheijden.90" height="30" width="30"/></a>
     <a href="https://instagram.com/tvdhphotography"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tvdhphotography" height="30" width="30"/></a>
 </p>
