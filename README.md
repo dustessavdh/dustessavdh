@@ -5,7 +5,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/devcard/devcard.png"
+      src="https://raw.githubusercontent.com/dustessavdh/dustessavdh/devcard/devcard.png"
     />
   </a>
 
@@ -64,25 +64,25 @@ This is an array of some things I know:
 
 <p align="center">
   <a href="https://github.com/lowlighter/metrics">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/github-metrics.svg" alt="Tessa's github stats"/>
+    <img src="https://raw.githubusercontent.com/dustessavdh/dustessavdh/metrics/github-metrics.svg" alt="Tessa's github stats"/>
   </a>
   <a href="https://github.com/lowlighter/metrics">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.languages.svg" alt="Tessa's languages"/>
+    <img src="https://raw.githubusercontent.com/dustessavdh/dustessavdh/metrics/metrics.plugin.languages.svg" alt="Tessa's languages"/>
   </a>
-  <a href="https://wakatime.com/@ThijsvdH">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.wakatime.svg" alt="Tessa's github wakatime stats"/>
-  </a>
-  <a href="https://github.com/lowlighter/metrics">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.habits.charts.svg" alt="Tessa's habits"/>
+  <a href="https://wakatime.com/@tessavdH">
+    <img src="https://raw.githubusercontent.com/dustessavdh/dustessavdh/metrics/metrics.plugin.wakatime.svg" alt="Tessa's github wakatime stats"/>
   </a>
   <a href="https://github.com/lowlighter/metrics">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.achievements.svg" alt="Tessa's achievements"/>
+    <img src="https://raw.githubusercontent.com/dustessavdh/dustessavdh/metrics/metrics.plugin.habits.charts.svg" alt="Tessa's habits"/>
+  </a>
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://raw.githubusercontent.com/dustessavdh/dustessavdh/metrics/metrics.plugin.achievements.svg" alt="Tessa's achievements"/>
   </a>
   <a href="https://steamcommunity.com/id/Toesichan/">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.steam.svg" alt="Tessa's steam account"/>
+    <img src="https://raw.githubusercontent.com/dustessavdh/dustessavdh/metrics/metrics.plugin.steam.svg" alt="Tessa's steam account"/>
   </a>
   <a href="https://www.last.fm/user/JustAap">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.music.svg" alt="Tessa's recently listened to music"/>
+    <img src="https://raw.githubusercontent.com/dustessavdh/dustessavdh/metrics/metrics.plugin.music.svg" alt="Tessa's recently listened to music"/>
   </a>
 </p>
 
@@ -93,7 +93,7 @@ So [click here](https://www.reddit.com/random) and get suprised by a random redd
 
 <p align="center">
   <a href="https://xkcd.com/">
-    <img src="https://raw.githubusercontent.com/dusthijsvdh/dusthijsvdh/metrics/metrics.plugin.xkcd.svg" alt="XKCD image of the day" />
+    <img src="https://raw.githubusercontent.com/dustessavdh/dustessavdh/metrics/metrics.plugin.xkcd.svg" alt="XKCD image of the day" />
   </a>
 </p>
 <p align="center">
@@ -106,6 +106,6 @@ So [click here](https://www.reddit.com/random) and get suprised by a random redd
 
 <p align="center">
     <a href="https://twitter.com/HTessavd"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="HTessavd" height="30" width="30"/></a>
-    <a href="https://linkedin.com/in/thijs-van-der-heijden-871a81196"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thijs van der heijden" height="30" width="30"/></a>
+    <a href="https://linkedin.com/in/tessa-van-der-heijden-871a81196"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tessa van der heijden" height="30" width="30"/></a>
     <a href="https://instagram.com/tvdhphotography"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tvdhphotography" height="30" width="30"/></a>
 </p>
