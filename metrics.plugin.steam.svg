@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="415" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="421" class="">
     <defs>
         <style/>
     </defs>
@@ -117,15 +117,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAwEBAQEBAAAAAAAAAAAAAwUGBwQAAQL/xAAvEAACAQMDAwMDAwQDAAAAAAABAgMABBEFEiEGMUETIlEHFEJhcYEjMlJicpGx/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwQBBQL/xAAhEQACAgIDAAIDAAAAAAAAAAAAAQIDBBESEyEiMRQzQf/aAAwDAQACEQMRAD8A3LojpLS+hNFbT9LZxCzFiXbPeiy3d5f3LQ2ShAPzYZFF1K5aecWg9zd8rTW1hVIYljX/AJY71V+v0l5cibl0+P1FZ1aZgfds45r09pCkMj+m8PH5nNVpgR8DaBz4Ffn7RHjkjwG4881v5GzOnZLaX69hZyqsLGZhlJPxoCrOuJ7xdxByGXgA1TapGVspY40OFTjHfNQmmdUpZmW1a2kuEDH2k5OaSqTl6gbFwLXSbqKSMMkqkeU817qrp2z6p6fuNJvtwimXGVOMVNevCzG/0wMLhRloM9v4qq0fU1vrZJFIB7SD/Gjvra9FptTJ63nU3styvIRRVRbssMCZ/L3f91F6OTFozPIOSTmmeqaqYdJtJf8AbH8Ul0eX0FVIqUcIwcnvRifAwN3mk8d7Fc2KyK3ZQa+WWpJcZKtylS9Wivs0MbuEsjYPsxzWZ9bsdIhilhgUrvJJC1o886rEQGyp70q1qxhvohDIgaPGc1Rj2cWBf8kZ509rVvfzATHZMeAF4zVFbXT6ZeIWG2KY7SfAFLNU6QikO5wdw/taE7cfvQLO5msd9nfsJIGG2Mkcg/vXRajYjmOx1srtYEVno88k2AMcY4pSkx+xgQgOIf6rAjPtNe+pM5t9IaNeY3GAan+k9aj2xrOd0rDZIp8J4oKq+VaZXbP3wotF1NGt5NpABYjHxS7S4NQXqOa2tLhRFgSLuGck+KDr9pJAq3mioZLdmO4D581xaVrTQapbPexPG1u2+U9vbXpQSg2YpM00W83o5kU+oOD8GlkuomC6eLevqqudpos/VWjz2byQXsZfbkDNY7favctrRv45C6O5QAfpRY2O572g8jIUfpmqyX2/3lTu+M8VwXs4nX07iJMHsQORU/HqaanbBbgPMw8wnbj96I4jgtfW9Zii/gxyaqVEYP5PRI8iU15HYb6uyyBbFM7SXOfjtUXa2j3tj93abmnU7fZx2pp1V1LpvVEEc2lzC4iiOSyntWldJaDaWWgQxRxgNIN5Zue9H2dVSLuHJiPoPp7UbizebVS8IIwsZ/8Aacap0197LAgeJnVuWVccfr81SRw3jIImmj2L+ajHHxXZbxLEMJwPJPmue8py2XRx00Q0v03tyMxzBSeTil0/0/WNJEAMmO23itQJ7EZNBvpVt7SSUsEwO5rYZlkP6FPDrmvEZha6DplnhyZFUcOA1dMepaHBMyw2cs5A5Gcinps5LT0LqcxyW7SFn9vg001e90bRNJm1K/W3t7dE3szIO1NbkqS20TVYkovxn//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAwEBAQEBAAAAAAAAAAAABQYHBAMCAQj/xAAuEAACAgEDAgQFBQADAAAAAAABAgMEAAUREgYhEyIxQRQVMlFhByNCUnGBkbH/xAAZAQACAwEAAAAAAAAAAAAAAAABAwIEBQb/xAAgEQACAgEFAQEBAAAAAAAAAAAAAQIDEQQFEhMhIkFR/9oADAMBAAIRAxEAPwBMSowPphKtXYDD3ykj2ztFppA9M1lYZkFhGCpX347o23u3tnvU9bqaNXjltful2KoinYgjCzV1r1+U/kiXuX9sQB0lb1zUb0+v3USsV/aRQVKrv2ORlYShD3Ifh/UPTkZPDpTbk7cOXdv8xwoytcqNYEbQo438NvU4qaB0NoVOxVsPOZZ423jBbcNj/HNBLCvhcQsZ8p9iftkIyDOIEs1yw7jYYOsRKg7nGC4wffAtyMbd8ZnJGKwOHy0d5OPAnsEOc9QpNUqTTRxeLIF3ESjviAvWeoaRUlkuyLIiDffb0zVoX6l3rtlXV4LNV/L4SJs//eVFIs218WarU2p6hTMPwL1/E8rRyDcuPsPtnK5QuRws4qyPOUCGsPqUD3P4x1qdX6S8sMV6IVnkO3n/AI5qbqXSWR3QLM2/HkvqRgkwpYROfh7yvXSvTl577svuuaa76lAqwV4i0Zcl2I+nK0tZDFHJCsZLqG2A8wB/OZrOnohBhRWB7sQPT/cKkBxyI2nx2Ja7G0ApB7dsGarzc+Htsv3GOt2gfDO52G/tgLUabDYAb4+DyKawTnX6fR+rxKHuShj2dRKQCMUdW6doUa7to9uTZRuhRz3/ABgoRoSpRGG58x/qPvnarci0+dnkYtEPpUn3zIhb+HV63auK5Dl0v1FJck0bSnrgxLMeZkALnt98pz9NdO61Qk+XXGo3kJ4pJJvu3+ZFdHaGr1VHb58YJVBU79lONmhxTvFYvz2PguDsRLIfLtv67ZW1l06PpGOoqz4Hrp+Dq7Qb8KyRPqdJm4u8Y+lf+cfzqMzGIJp0zPIdnjB7gYl9Kda0pqjUotWgtSEbHwztjlW1wwMCIu/EeYkHKa3ayHkkFUI9+LUsvwWRQy/Uh9V/GYblRWViYj5u2+/tmDXp6N1nlYmu7DZip2/8yd2uqbtO01etbXih9X79s0tJre9+irNOmTVtEs8PIfX8Yt6xpViCyplPbL1DpC8d+GfbfSNW+VMseCNfF5Zv3bj3Q4ku6T09tYqmgx4yt9LH1zhrfSmt6VypWZLBqv78jttlKl6EfSrUdytPw4nfYZSZdAHUHTSgsrzqvrt3yxNR1Cx/Dnvap8j8inQbtUkVZZIj/ZSQcKUNc6p0pPDhtSSj7uS2VTV+lbkTNH4J3B29MV7WiXIXKGs5bEyprsWCfawZovX2sR2j834unp2XthCez8yElqIqwP8AFR3zwdDexGVkqMj/AJ980aXTmov8O8DRqf5N6YqFHXLKDzbP/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Granblue Fantasy: Relink</div>
+                                <div class="name">Forza Motorsport</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure, RPG
+                                        Racing
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -133,7 +133,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        2 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -141,7 +141,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 13 Apr 2024
+                                        Last played on 14 Apr 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -150,22 +150,22 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            6 / 54 achievements unlocked
+                                            11 / 57 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABgcBAwQCBf/EAC0QAAICAQIDBwQCAwAAAAAAAAECAwQRAAUTQVEGEhQhIjFCNENicTJhgaGi/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgMAAQT/xAAhEQEAAgEDBAMAAAAAAAAAAAABAgMABBExEyEigUFxsf/aAAwDAQACEQMRAD8AQPCOinsx2fQNDd3KESh/XXqMccUD5v0TP+W/Wu9t22GosFvcYw7S5atWb7mPm34D/o+XtnTd2Ox2ft0GievBHauiJpFNzxBdlcdziHujhd4+nuqwGDggAZAX3b7wg+80UVFYWWH0Yo+1XZpQs247XEEjT1Wqi+fh8/NesZPP4+x0JcI6c25SCTe5n2xJ6tiItxI5KyRrE+COGqqzBkbABGef60F73tEE0c24bXGscaNizUBz4djzXrGTnB5HyPLVUWp4z9OTUVwmsquTuma4THPWjq32CiL6ayw7xg/Fh8ozzHL3HTW1tytSiahu9GqoVRgQVkh75UhlXvqMMrcj5+41PhB01bAbFWtYghvWqkEo94/WqN1KHOV6geY9x00N+ljLyxUbmcSDz8K7ZU67nt9ZGTbxXayzEEKFhiJGPPJOPTjOf9nQ5buw/TVG4ifdnxjinoByQchqJalq5HDUrrIYIxh5pCfWc5woP8V/rnr06WxJCAX8zptdQ7LwYLLpDEe7yn5n/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EACkQAAICAgEDAwQCAwAAAAAAAAECAwQFEQAGEkEhMXETIlGRFIEVUnL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwCHq2xzTWxF+9GJK1V3iPtIxCKfgsQD/XNPSlKC1NPava/hVE75ARsMdEgEeRpSdedAeeOeCgPVcFGX/I3cesuUNGSODtVUiEDyhu/3LfYQd6VQfQaGuV1KROclhr9GMyWqrrEPeRSHUfJUkD++BZF5auosK/SeEtXxlL2R+hcMLQ2ApVoTI8Y7WOyH+zf+hBGwRya9XY6CrPBboa/hXE+pGANBToEgDwNMpA8bI8cUwn0qBb6azNZSQwKySEeI/Qk/ACN+x+eMr4nGYeo0+C6kydqSqwv10hgeOOeRSFXtIGwxUsN/j55LaNyWpMssDdrAg6IDK2jvRU+jDYB0dj04efrDNSyM8ltGdjskwp6n9cAbs3DZ6sxzjDWMtDYMhs2MLeLdks2vumgbQVmPuUOm99d3FrqiKSp0vg6tpHjsEGTsdSCF0T7H/sD5BHjmVOr8zFIrx2kV1OwRAnof1wVmMrdzF1reSsvYsEa738D8AeB68Gv/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Western Frontier</div>
-                                                <div class="unlocked">13 Apr 2024</div>
+                                                <div>Flying</div>
+                                                <div class="unlocked">14 Apr 2024</div>
                                             </div>
-                                            <div class="description"></div>
+                                            <div class="description">Maintain a speed of 180mph or higher for 3 seconds</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+5 others...</div>
+                                            <div class="description ellipsis">+10 others...</div>
                                         </div>
                                     </div>
                                 </div>
