@@ -78,7 +78,7 @@ This is an array of some things I know:
   <a href="https://github.com/lowlighter/metrics">
     <img src="https://raw.githubusercontent.com/dustessavdh/dustessavdh/metrics/metrics.plugin.achievements.svg" alt="Tessa's achievements"/>
   </a>
-  <a href="https://steamcommunity.com/id/Toesichan/">
+  <a href="https://steamcommunity.com/id/tessachan/">
     <img src="https://raw.githubusercontent.com/dustessavdh/dustessavdh/metrics/metrics.plugin.steam.svg" alt="Tessa's steam account"/>
   </a>
   <a href="https://www.last.fm/user/JustAap">
