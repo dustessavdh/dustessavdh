@@ -20,6 +20,7 @@ My name is **Tessa**! Welcome on my github profile! :milky_way:
 ## Things I know
 
 This is an array of some things I know:
+
 <p align="left">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
@@ -88,8 +89,8 @@ This is an array of some things I know:
 
 ## :coffee:/:tea: break
 
-Somtimes you need a quick break to restore your epic coding skills.
-So [click here](https://www.reddit.com/random) and get suprised by a random reddit post everytime you click.
+Sometimes you need a quick break to restore your epic coding skills.
+So [click here](https://www.reddit.com/random) and get surprised by a random Reddit post every time you click.
 
 <p align="center">
   <a href="https://xkcd.com/">
