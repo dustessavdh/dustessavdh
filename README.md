@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">A passionate full stack developer and student from the Netherlands</h3>
 
-<a href="https://app.daily.dev/TvdHeijden" target="_blank">
+<a href="https://app.daily.dev/tvdheijden" target="_blank">
     <img
       width="256"
       align="right"
