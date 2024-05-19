@@ -212,7 +212,6 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_title: Work Chronicles of the day
           plugin_screenshot_url: https://workchronicles.substack.com/p/comic-cool-thing-to-say
-          plugin_screenshot_selector: '.image-link div picture img'
 
   music:
     runs-on: ubuntu-latest
