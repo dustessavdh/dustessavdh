@@ -191,6 +191,29 @@ jobs:
           plugin_screenshot_url: https://xkcd.com
           plugin_screenshot_selector: '#comic img'
 
+  workchronicles:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        name: Work Chronicles image of the day
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Europe/Amsterdam
+          output_action: commit
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          committer_message: 'chore: update `${filename}`'
+          user: dustessavdh
+
+          filename: metrics.plugin.workchronicles.svg
+          base: ''
+          plugin_screenshot: yes
+          plugin_screenshot_title: Work Chronicles of the day
+          plugin_screenshot_url: https://workchronicles.substack.com/latest
+          plugin_screenshot_selector: 'a.image-link div picture'
+
   music:
     runs-on: ubuntu-latest
     permissions:
