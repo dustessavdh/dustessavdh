@@ -212,7 +212,7 @@ jobs:
           plugin_screenshot: yes
           plugin_screenshot_title: Work Chronicles of the day
           plugin_screenshot_url: https://workchronicles.substack.com/latest
-          plugin_screenshot_selector: 'a.image-link div picture'
+          plugin_screenshot_selector: '.image-link'
 
   music:
     runs-on: ubuntu-latest
