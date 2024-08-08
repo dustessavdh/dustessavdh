@@ -11,7 +11,7 @@
 
 My name is **Tessa**! Welcome on my github profile! :milky_way:
 
-- 🔭 I’m currently working on projects for [spine](https://github.com/spine-ngo) :books:!
+- 🔭 I’m currently working on projects for [Spine](https://github.com/spine-ngo) :books:!
 - 🌱 I’m currently learning about **Platform Engineering**
 - 💬 Ask me about **Anything!** I love to help!
 - 📫 How to reach me: [tessavanderheijden02@gmail.com](mailto:tessavanderheijden02@gmail.com)
