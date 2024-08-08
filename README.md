@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">A passionate full stack developer and student from the Netherlands</h3>
+<h3 align="center">A passionate full stack developer from the Netherlands 🇳🇱</h3>
 
 <a href="https://app.daily.dev/tvdheijden" target="_blank">
     <img
@@ -11,8 +11,8 @@
 
 My name is **Tessa**! Welcome on my github profile! :milky_way:
 
-- 🔭 I’m currently working on projects for [hergetto](https://github.com/hergetto) :books:!
-- 🌱 I’m currently learning **C#** and **.NET**
+- 🔭 I’m currently working on projects for [spine](https://github.com/spine-ngo) :books:!
+- 🌱 I’m currently learning about **Platform Engineering**
 - 💬 Ask me about **Anything!** I love to help!
 - 📫 How to reach me: [tessavanderheijden02@gmail.com](mailto:tessavanderheijden02@gmail.com)
 - ⚡ Fun fact: You are awesome!
