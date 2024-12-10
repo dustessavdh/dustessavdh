@@ -106,6 +106,16 @@ So [click here](https://www.reddit.com/random) and get surprised by a random Red
 > if you refresh the page you get a new joke
 
 <p align="center">
+    <a href="https://github.com/devxb/gitanimals">
+        <img
+          src="https://render.gitanimals.org/farms/dustessavdh"
+          width="600"
+          height="300"
+        />
+    </a>
+</p>
+
+<p align="center">
     <a href="https://twitter.com/HTessavd"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="HTessavd" height="30" width="30"/></a>
     <a href="https://linkedin.com/in/tessa-van-der-heijden-871a81196"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tessa van der heijden" height="30" width="30"/></a>
     <a href="https://instagram.com/tvdhphotography"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tvdhphotography" height="30" width="30"/></a>
