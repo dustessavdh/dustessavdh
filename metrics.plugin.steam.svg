@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="421" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="415" class="">
     <defs>
         <style/>
     </defs>
@@ -25,7 +25,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m10.41.24 4.711 2.774c.544.316.878.897.879 1.526v5.01a1.77 1.77 0 0 1-.88 1.53l-7.753 4.521-.002.001a1.769 1.769 0 0 1-1.774 0H5.59L.873 12.85A1.761 1.761 0 0 1 0 11.327V6.292c0-.304.078-.598.22-.855l.004-.005.01-.019c.15-.262.369-.486.64-.643L8.641.239a1.752 1.752 0 0 1 1.765 0l.002.001ZM9.397 1.534l-7.17 4.182 4.116 2.388a.27.27 0 0 0 .269 0l7.152-4.148-4.115-2.422a.252.252 0 0 0-.252 0Zm-7.768 10.02 4.1 2.393V9.474a1.807 1.807 0 0 1-.138-.072L1.5 7.029v4.298c0 .095.05.181.129.227Zm8.6.642 1.521-.887v-4.45l-1.521.882ZM7.365 9.402h.001c-.044.026-.09.049-.136.071v4.472l1.5-.875V8.61Zm5.885 1.032 1.115-.65h.002a.267.267 0 0 0 .133-.232V5.264l-1.25.725Z"/>
                             </svg>
-                            278 games
+                            281 games
                         </div>
                     </section>
                     <section>
@@ -117,15 +117,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAwEBAQEBAAAAAAAAAAAABQYHBAMIAQL/xAAzEAABBAAFAgUCBgAHAAAAAAABAgMEBQAGERIhMUETFCJRYQdxFSMyQlKBM0NEU2KRsf/EABsBAAMAAgMAAAAAAAAAAAAAAAMEBQAGAQIH/8QAIxEAAQQCAgICAwAAAAAAAAAAAQACAwQRIRJBBSITFDGBof/aAAwDAQACEQMRAD8AZGGEk8a4IR4unIOOsVsBB3J0xuZbbaRucVpwe+PMmkzHh2tzll4hBLiyar9GEIMqaeVMIOitvbGFOY22gPxCC9XsL48R1QISfnTEmtmLvOlxbKp3HFrh66NMnRZ0OnXC0xdZgyfLb8y8HHN2i4sv8wp/7xci8UHx4J9lPfbwVflX0aU24mpjuWLaRypo6f8AuPzV20exk+UkIVBnDhLDp1U58DAD6lwLl2lq7fLLadS2lx5uKnaBqO4GB2WJ1xY0As8wRhHcrVlxuTs27j00PvgH0Yywv7/q7tsKjqryAeCD7YEzoawddMO0YJer2HtQouNpXqO+owPso48IkDEwvkjOU5BPtZo5ITvQQHP4q50xMfq7mmSua1lmjcIlPf4ziT1B7D2w3WmZ0U9iiIYTrvijRpYPC1adMQpywXWZxctLiO75hlwuJbJ5A7Yr+Mqgu+Vw2Pwk7MuQiORZ9vk+wmOKhvyY0pPhPls6K49j74ULSBYvz5Lzsd8qcWVfmK3EJJ4GO1zJsrB5+ySXksqJUltCtNPuMCvOvo/W86vcOU6nUY2ONhHt32pZOSrr9KfqjDrqgU2YklC2ejqz6SnsMG89Z1y3ZZSn1FXZRi7LSUo2AgIOPNDjpUrxF6rJ426cj74otZcx5uXK+sragSLHxTuKGxuUPbXCctJrX/I1EbJpO/0VzjIhvjLV24VD/TLWeVE/Ptix2Se60HYeEke+PPFrR5iOb411EoZUVuO0gbF6dQOTio031AYu7BNU1WyUSm0DxlKVqE/OJPka5f7s/aarybXW7iosqiUktkOhPo/kk+4OIpb16RZORXVeI22kKccVyUA+5xcojig4SpaVLI0UO2mJ5mGrTFkPoKCpCSXXXP8AdSf2j7YFQn46TliPSWTkuczYMtQIz7j7iQtvVWqHAegAwZj5fzZFVr5CEk9Fb44O0fODVDPWhhMS68V2uT6mLFlWwMn+JPXjpgtWZwvLCE7Hpof4ippRSmWgDapI4AIPfFB9iQHSntib2sNPHmxlpds6SNJSP1BtpKdw+MG6rOUSXPciVGWQxIjDcZAQkBv74UZNdaosVz85vPM1ShylhewpPfpghZ27EitdqMrp8GtWgecslc7Wz05664E5pcc5XBOUEzJmi+zEyFKf8OG4+phRb9JGh64q1HVQqunjqitpSstgrWoarXx74nWX6wT7aKlppQjcIca/4j/M/vFOsVhhDbY9ZSNqQOw+cJ3ZuTeDU1VjyUuMOeCBzuSf3jH25isy4yTqPMN+oL/b/YxlbUUqKEcg9Wz1xhzS1OmZfei1uqVPDaVdxhOA8HgFVJgHDSRXVrt56ksvGPUxlHRJ6OudFAYMM00JHLdVdRHFD0uNSdjaj76DDVlmpZq6JmI4hta0+oqKddVHrju7RwXXdVLlFB5UPFOg+3tinJdYweqnmo5yVWamNqp5dPd2CwNNVStzaPkpPXHTykx95T0ItSl6BJjx0bUoA7KHQ4am8v16N5aelgacEPHT+8HYpbjpIjpabATp6U6En74Wfd1hY2thZMnNMNU/m2tpeWoocHdOnbGqwfAJ28hXGuBFLFdrpUpKVExnSVD4JPOOs14KI2cpBwjIcnknK8eCv//Z" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwABAQADAQEBAAAAAAAAAAAABgcCBQgDBAH/xAA2EAABAgUCAwQIBQUAAAAAAAABAgMABAURIQYHEjFBEyImURQWFyVSYXFyFTVikZIjMjOBof/EABoBAAIDAQEAAAAAAAAAAAAAAAEDAAQFAgb/xAAlEQACAgECBgIDAAAAAAAAAAABAgADBBESBRMhI0FRIjEzcbH/2gAMAwEAAhEDEQA/ANnt7oySq9KU68pQso9YV+zWm2t2i/5RjtJ+TOBWO8Yd3xcchHg8nKtW1gGnqb77FsIUwN7NaZ/ZxrCenej9RtnT3D3VLUB+qGU5NS8jJuzc4sIlmRxKuecRbUO51Xqkw4mk8EnKIUUgqTcqHneBQ+TedEaCtrrOobQDzHC9spBF+JSwOp4ox9m1NJsXFkDpxc4ntK3H1BTHQ7MuonGRzaSnvRa9OVqV1DSGp+SULKwtHUHqI7vOVR1cwWPdX13ag+oWG2tNAwtf8o0WstCyFNoT0w0tRIHxRVr4vbEF9xyPVl/hzcGF0ZVpsUFpKr7C4BM1O0p9yufcYd3xALac+5HPuMOQeUVcxu80mQO4YI3omXGtLNS6CeydUQu3MiIkykuNhN8AZt5R0ZrGip1Hp2YkU9yYAJaUfOOf3JaakXVyc+wpl5okZFuIecbHB7V2FfOs6Q7qto+xrMWkJScEYHOKVse4tpyfl0KPYFNwD0N+cTcdoooTLNlbyjZKBzMWzbXTy6BRS5NpPpcxlX6QciGcVtVatpPU/Uh0Wo7vMYHBIviDG4h8MzH0MI7wZ3DN9MzH0MYGOe6sXSPmJqdqD7oX9xhxfEBdqvydf3GG8DM/O0deO4ZnxZBB5RLN8p1n8QkJZtCEu3BUoCxOOsVOXAU4hJ87mOe90Kh6frN/Nw0kJH+oscKrL5APqClRuLeh/Z922803K6xl1PpStLhCQFC9ovLqiXFnoRiOZKa+ZapyMyDbslgmOlGnQ9Ky7oOFNpP/ACLHGUIsVvYgsXXQj9T0viDW4Z8Nv/SEROINbgnw4/8AQxmYx7qyVD5iavas2pCwfiMN75+US3b3UtPp9LUiYdAJUesK/XOk8i+n94tZePa1zELH21MXJ0iOamEytPm5q/8AjRe0cxzj656pzT5aX33FZI+cXlesaOtBSp5BQrBSesfKjUGlk5SzLjPwiG4L2YpJ5ZOsiKUUgqesiTpUlons1lQ5WEdB6JnTP6Tk3F3C090g/IRqzqLS+f6MuQefdEerOrqJLo7OXcQho8gMQzNtsylC8sgiBlLLtCmKici3KDW4R8OvgeUY+uVIBsH0/vGi1nqqmztDeaYdSV284p4+NaLVJWSupgwOk//Z" alt="" />
                             <div class="about">
-                                <div class="name">Indiana Jones and the Great Circle</div>
+                                <div class="name">Escape Simulator</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure
+                                        Adventure, Casual, Indie, Simulation
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -133,7 +133,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        5 hours played
+                                        6 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -141,7 +141,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 10 Feb 2025
+                                        Last played on 16 Feb 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -150,22 +150,22 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            5 / 45 achievements unlocked
+                                            9 / 25 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABgABBAUDBwj/xAArEAACAgEEAQIEBwEAAAAAAAABAgMEEQAFEiEGBzETFFFhFiMyM0FykcH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAIBEAAgEEAQUAAAAAAAAAAAAAAQIAAxESITFRYaHh8P/aAAwDAQACEQMRAD8A5V0gCTgDJ+2jj0ttzUj5RZqlFtQ7NLLE7Rq/Blkj7AYEZxnUv8S+ZzRoieR8bciCUVEcRyBCM5JChR13jOcd41wNU5FQOO/qbx1eAcVOzL+1Xmf+qE6xzwS15DHPE8Ug7KupU/4dGs+8+SSOlaz5TuXz8ic0hWwzJ2MqOYbGSOxgEdjv6VfnTSy3NrsWJHlln22tIzuxZmPDGST7+2qtUlgDBXV5J9OCz3t4qRtGJbm1Wa6fEcICxAIGSQB2P51YDxjeGj/OTZI7fw/g/MPukOePHj+kPjPHrP8A3vQDpaNSORYHn7rAbVpsip4fvEdZYzvHi8bKpRJZL8RkRT7gMMke5+4z1qn9SYYqtzZacVyrckq7XFDNJVk5oHDP0Dj6EaEMnGMnTai0iGDE+ILatP/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAABAUHAgMGCP/EAC4QAAICAQMDAgQFBQAAAAAAAAECAwQFABESBiExQVEHExQyFSIkQoGEkaGx0f/EABUBAQEAAAAAAAAAAAAAAAAAAAMC/8QAGREBAQEBAQEAAAAAAAAAAAAAAQIAEQMh/9oADAMBAAIRAxEAPwCT9ZdUZK1nZ4a1ianDVdoVEMrLz2b7m29dKocxlD92UvH+of8A7rXl4nn6iyYQb/qZCSTsAOR7knxrpeh8lH01mauUpY38csVXBlVod4VB7bJuN+fs3bb0B86gCZ+GVVcuaXKxStFcy2VrzLCZzETIG4heQ+4jyNMOmOoLNa5WJnuWo7VgVXW1OX49gQy+x7/yNWD4s9CWep8qeocPIn1U9H5MlWc8S26EKQ3gEBtiD7edQmjXmp3aNe1G8U8OV4OjjYqwCgg6Kbn1nutlhwOTkQZrIfNDOosuQgOwP5j50wjs2bNRUlsrQx+xACjbkPUKo7t/r3OsM9hrkGWlmrxPZSdmlBSMniSfB0C1DJOxZ6dtmPqYydMIho493oSj8VunXxsZma3FPFXDtB8nkSFHgEHbwN/PYaidnKzZfLw3rDMWny7ShT+3kFOw/wAf20PXrz77zUcgr/TtX3WLkvdSoO3Y+ui8PiJWeurM8awWPqSZIWTcbKAo39e2hnzjz6mSqqud3//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ecco!</div>
-                                                <div class="unlocked">23 Dec 2024</div>
+                                                <div>Break Out</div>
+                                                <div class="unlocked">16 Feb 2025</div>
                                             </div>
-                                            <div class="description">Photograph Ernesto.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+4 others...</div>
+                                            <div class="description ellipsis">+8 others...</div>
                                         </div>
                                     </div>
                                 </div>
