@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            2.15k hours played
+                            2.16k hours played
                         </div>
                     </section>
                 </div>
@@ -118,7 +118,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        11 hours played
+                                        21 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -126,7 +126,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 22 May 2026
+                                        Last played on 24 May 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -135,22 +135,22 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            24 / 57 achievements unlocked
+                                            30 / 57 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcCBQYD/8QAKRAAAgEDAwMDBQEBAAAAAAAAAQIDBAURABIhEzFBBgdxFDJRYYEiof/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBQD/xAAfEQACAgIDAAMAAAAAAAAAAAABAgADERIhMVGBkfD/2gAMAwEAAhEDEQA/AMpMXirYxTRliu0RgrncR3Ix+9Mr0R1ru9RLc3HVgKkxs21VHbt2J41VWlKO12qpvNSGMkJKwxpkA8c4HknWYp/c1LfbPpqW3NS1LynqvUZkI7+F5z+tUrKmoV0aw5J4OOve8xQvW8oy1gAD788jWvI+pmRYlVYVxgMfu0XbbJR9JJpVd5FJYbzlT+ONJRPdCrkHUlpaeEK4TJ3lzk8YXPH/AHV1Se7tXV01Qs1BG21sQyKWRSBwcg8n5Ggl9aLqhxNZS5bZx31++JL1Her/ABwwVc9ukt1FKcQM8X3Ec5Bbz/NLyeKn60k7TTLIxyNjbdpJOWyPPPfTt93roL/6UhppKpZrpTsJ51oWM0UXgqWVcDGe5PjSOlp6SnYGpLtgkBWbJODjU2+9iRuY9F0B14BkFMMbEwKGlPfYCWPye5Pzrs0MroXmkjhQDP8AvOga67ICyUxaKHA4A2/350PbKWvuk6mJNtPnDSzMEjwfyT40gO7DOMQY59n/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUGAgcI/8QAKxAAAgIBAwIFAgcAAAAAAAAAAQIDBBEABRIGIRMiMUFRFGFCcZGhorHB/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAiEQABBAIBBAMAAAAAAAAAAAABAAIDEQQhMRJBUWGBkfD/2gAMAwEAAhEDEQA/AOemEaMvhcsY8wYY76fbJJxmi8M55OF/XtpNDBatyxxJA3LGAO3+nRtOB4LSEyqgBw+GHbGrYzRUHi1vyarDUlowTHjJYVinx5AM5Pt66T9RQfUda0a6+gjGR++o3cL1+/BQrXvFmFYsI3kdR2PHiCPXiMe+m8FDcdytTzbhuNdp+A8Midcv5scUx9u+PjRMmXbg5w4QzIKBA7ozcjta2bNalJLaMfk5OoXv7nie+P70LtnTtO8Z3lSpXihQu0kpCBR9gO7H7AHUZZqu0zShVldjnLMVcfkw76xv3d1nqNWiS03JQuGVX/n66SujkL7B19LaYmfgR4xjdGA7yR1WfnX7hMOqNz2wCIQIHaFPD5QoFBGfVu2T8aH6P6gMm5pDJVjswKuAphVgpP42J+NAbf0ruFlGW9KleByGYHBc49vgardqp1NqhWKtEB8sRksfknROwNm0jnnEryWMDR6X/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>To The Moon</div>
-                                                <div class="unlocked">22 May 2026</div>
+                                                <div>Tokyo Resident</div>
+                                                <div class="unlocked">24 May 2026</div>
                                             </div>
-                                            <div class="description">Earn at least 1 Star at the Irokawa Launch Danger Sign</div>
+                                            <div class="description">Complete 33 activities in the Tokyo City Region</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+23 others...</div>
+                                            <div class="description ellipsis">+29 others...</div>
                                         </div>
                                     </div>
                                 </div>
